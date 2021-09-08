@@ -1,2 +1,2 @@
 # ↑sec
-Userful information about information security
+Userful information about application security
