@@ -1,4 +1,4 @@
-#Application layer DoS 
+# Application layer DoS
 ## Regular expression Denial of Service - ReDoS
 Information:
 * https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS
