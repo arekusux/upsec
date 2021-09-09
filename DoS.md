@@ -3,6 +3,12 @@ Main info:
 * [Denial of Service Cheat Sheet](https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/Denial_of_Service_Cheat_Sheet.md)
 * [Defending against application DoS](https://owasp.org/www-pdf-archive/Roberto_Suggi_Liverani_OWASPNZDAY2010-Defending_against_application_DoS.pdf)
 
+General scaners:
+* [FindSecBug](https://find-sec-bugs.github.io)
+* [AFL](https://github.com/google/AFL)
+* [AFL for Java](https://github.com/Barro/java-afl)
+* 
+
 ## Regular expression Denial of Service - ReDoS
 Information:
 * https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS
@@ -98,3 +104,14 @@ Cases:
 * https://hackerone.com/reports/1093667
 * https://hackerone.com/reports/1065041
 * https://hackerone.com/reports/823915
+
+## Memory Management
+Information:
+* https://en.wikipedia.org/wiki/Buffer_overflow
+* https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=87151930
+
+Cases:
+* https://github.com/mrash/afl-cve
+
+Tools:
+* https://github.com/google/AFL
