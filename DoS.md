@@ -107,7 +107,7 @@ Cases:
 ## Memory Management
 Information:
 * https://en.wikipedia.org/wiki/Buffer_overflow
-* [Memory Buffer Errors] (https://cwe.mitre.org/data/definitions/1218.html)
+* [Memory Buffer Errors](https://cwe.mitre.org/data/definitions/1218.html)
 * https://wiki.sei.cmu.edu/confluence/pages/viewpage.action?pageId=87151930
 
 Cases:
